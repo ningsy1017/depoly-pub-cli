@@ -1,0 +1,19 @@
+{
+  "name": "deploy-pub-cli",
+  "version": "1.0.0",
+  "description": "Automated deploy",
+  "main": "lib/deploy.js",
+  "scripts": {
+    "test": "node lib/deploy.js"
+  },
+  "keywords": [
+    "Automated",
+    "deployment"
+  ],
+  "repository": {
+	"type": "git",
+	"url": "git@github.com:ningsy1017/depoly-pub-cli.git"
+},
+  "author": "nw",
+  "license": "ISC"
+}
