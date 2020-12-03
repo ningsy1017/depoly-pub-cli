@@ -1,15 +1,2 @@
-
-
-# dependencies
 /node_modules
-
-# production
-/dist
-
-/deploy/config
-
-.vscode/
-
-# misc
-.DS_Store
-npm-debug.log*
+/.gitignore
